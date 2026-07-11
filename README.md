@@ -16,4 +16,4 @@ GitHub Pages hosts the website using a URL based on my GitHub username and repos
 A CI/CD workflow is created inside .github/workflows/.
 When changes are commiteed to index.html, GitHub spins up a temporary Ubuntu VM in the cloud, clones my repository into that VM, runs the deployment steps, uploads the site as an artifact, and publishes it to GitHub Pages.
 
-Project URL: https://github.com/ARK-work2024/gh-deployment-workflow/blob/main/README.md
+Reference: https://github.com/ARK-work2024/gh-deployment-workflow/blob/main/README.md
